@@ -1,1 +1,1 @@
-# Assignment-Javascript-que
+# Assignment-Javascript-Questions
